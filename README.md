@@ -1,6 +1,6 @@
 # Process PMRA Raster Files
 
-### Create an XArray Dataset, a DataFrame and a GeoDataFrame from all the rasters with precipitation data from PMRA.
+#### Create an XArray Dataset, DataFrame or GeoDataFrame from all the rasters with precipitation data from PMRA.
 
 You can export the result to excel or shapefile to do stuff with the data.
 
